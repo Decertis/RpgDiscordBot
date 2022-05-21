@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C9E77AD7-BF14-4D9D-9385-D18C133AD3F7}|Default">
+  <MonoDevelop.Ide.ItemProperties.TutorialBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscordBot/Program.cs">
+    <Files>
+      <File FileName="DiscordBot/Program.cs" Line="9" Column="23" />
+      <File FileName="DiscordBot/packages.config" Line="1" Column="1" />
+      <File FileName="../../../usr/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets" Line="2101" Column="5" />
+      <File FileName="DiscordBot/App.config" Line="1" Column="1" />
+      <File FileName="DiscordBot/Modules/Commands.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiscordBot" expanded="True">
+            <Node name="TutorialBot" expanded="True">
+              <Node name="Modules" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialBot", "DiscordBot\TutorialBot.csproj", "{C9E77AD7-BF14-4D9D-9385-D18C133AD3F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E77AD7-BF14-4D9D-9385-D18C133AD3F7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C9E77AD7-BF14-4D9D-9385-D18C133AD3F7}.Debug|x86.Build.0 = Debug|Any CPU
+		{C9E77AD7-BF14-4D9D-9385-D18C133AD3F7}.Release|x86.ActiveCfg = Release|Any CPU
+		{C9E77AD7-BF14-4D9D-9385-D18C133AD3F7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
